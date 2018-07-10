@@ -1,4 +1,4 @@
-#Ans Dry Clean ing
+# Ans Dry Clean ing
 
 This is a simple github repo for anyone learning markdown and/or git. First some quick links
 
