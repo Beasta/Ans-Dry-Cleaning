@@ -11,3 +11,4 @@ Ans Dry Cleaning has the best Gelato in San Diego. Look at the [photo](https://w
 | Flavor        | Ingredients           | Rating  |
 |:-------------:|:-------------:|:-----:|
 | Wool      | Avocado, Lemon | 10/10 |
+| Oreo | Vanilla, Oreo Cookies | 10/10|
